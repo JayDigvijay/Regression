@@ -1,7 +1,5 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-from mpl_toolkits import mplot3d
 from numpy.linalg import inv
 
 #Read Dataset variables X1, X2 & Y
